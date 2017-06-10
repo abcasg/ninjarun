@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="15" tilewidth="42" tileheight="42">
+ <tileset firstgid="1" name="level19" tilewidth="42" tileheight="42">
+  <image source="level19.png" width="840" height="630"/>
+  <tile id="23">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="24">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="25">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="26">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="27">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="28">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="29">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="30">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="31">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="32">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="33">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="37">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="44">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="45">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="48">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="50">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="53">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="54">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="55">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="56">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="57">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="64">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="65">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="66">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="67">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="68">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="69">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="70">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="75">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="86">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="88">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="89">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="90">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="91">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="92">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="93">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="94">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="95">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="104">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="105">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="106">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="112">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="115">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="116">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="117">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="125">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="126">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="128">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="129">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="130">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="131">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="132">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="136">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="143">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="144">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="145">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="146">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="148">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="152">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="155">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="156">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="166">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="168">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="172">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="173">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="174">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="175">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="176">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="186">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="187">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="188">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="189">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="190">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="191">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="192">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="193">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="194">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="195">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="196">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="197">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="203">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="204">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="208">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="209">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="215">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="216">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="217">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="218">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="224">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="229">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="244">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="245">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="246">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="247">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="248">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="249">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="250">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="251">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="252">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="253">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="254">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="255">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="256">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="258">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="265">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="266">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="268">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="269">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="270">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="271">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="272">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="273">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="274">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="275">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="276">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="277">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="278">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="map" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJyNz8drFVEUB+D3Yqom9pJYYkliqiiiK0vMzoK94Eqwu7ChCzu4UrFlIyoKsURF1I29bHRlBRVsGxsWjL3+AX4PL/h4zKADH+fec3/3zEwykUhk0Ypscsglj3wKaE0bCimiLe1oTwc60onOdKEr3SimhO4ZSiN6ZZRTEfaVVFFNDbXUMSCcD2RQWA8OdQhDI2anDGM4IxhJPaNoiMmnjGYMYxkXeuOZwEQmMZkpTGUa05kRsjNj5s5KW89mDnOZx3wWsJBFGfcWs4SlLGN56K9gZUZ2FatZw1rWsZ4N4Tz1bIz5vk1sZkvYb2Ub29nBThoj7u0KdTd72Bv2+9iflmviAAc5xGGaOcJRjoXc8VBPcJJTEe88zRnOco7zXOAil7jMlYh7V7kW8//XucFNbnGbO2nnd7nH/bTeAx7yiMc8iZj7lGc85wUvQ/8Vr3nD29B7Rwvv+cBHPvGZL3zlG9/5wU9+xfzPv2Ql/9RsNYdc8sinIPk3V2hdlPz/ucWyJak8PehJL0rpTR/60o8yyqmgP5VUUU0NtdTxG1a3XA8=
+  </data>
+ </layer>
+ <objectgroup name="data" width="20" height="15">
+  <object name="nl" x="168" y="42" width="42" height="42">
+   <properties>
+    <property name="dir" value="3"/>
+   </properties>
+  </object>
+  <object name="nl" x="168" y="84" width="42" height="42">
+   <properties>
+    <property name="dir" value="3"/>
+   </properties>
+  </object>
+  <object name="nl" x="168" y="126" width="42" height="42">
+   <properties>
+    <property name="dir" value="3"/>
+   </properties>
+  </object>
+  <object name="nl" x="378" y="42" width="42" height="42">
+   <properties>
+    <property name="dir" value="3"/>
+   </properties>
+  </object>
+  <object name="nl" x="252" y="252" width="42" height="42">
+   <properties>
+    <property name="dir" value="3"/>
+   </properties>
+  </object>
+  <object name="dec_oneBox" x="252" y="42" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+   </properties>
+  </object>
+  <object name="dec_tong" x="546" y="84" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+   </properties>
+  </object>
+  <object name="dec_tong" x="714" y="84" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+   </properties>
+  </object>
+  <object name="nl" x="672" y="336" width="42" height="42">
+   <properties>
+    <property name="dir" value="3"/>
+   </properties>
+  </object>
+  <object name="nl" x="714" y="378" width="42" height="42">
+   <properties>
+    <property name="dir" value="3"/>
+   </properties>
+  </object>
+  <object name="dec_tong" x="126" y="420" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+   </properties>
+  </object>
+  <object name="wl" x="546" y="168" width="42" height="42"/>
+  <object name="wl" x="420" y="378" width="42" height="42"/>
+  <object name="wl" x="462" y="378" width="42" height="42"/>
+  <object name="wl" x="336" y="546" width="42" height="42"/>
+  <object name="dec_twoBox" x="210" y="546" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+   </properties>
+  </object>
+  <object name="dec_shiyan" x="420" y="168" width="42" height="42"/>
+  <object name="dec_tie" x="462" y="504" width="42" height="42">
+   <properties>
+    <property name="any" value="1"/>
+   </properties>
+  </object>
+  <object name="dec_tie" x="630" y="504" width="42" height="42">
+   <properties>
+    <property name="any" value="1"/>
+   </properties>
+  </object>
+  <object name="nlt" x="756" y="504" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+    <property name="dir" value="2"/>
+    <property name="dir1" value="4"/>
+   </properties>
+  </object>
+  <object name="dec_tv" x="546" y="504" width="42" height="42">
+   <properties>
+    <property name="any" value="1"/>
+   </properties>
+  </object>
+  <object name="emy_zhu" x="378" y="168" width="42" height="42">
+   <properties>
+    <property name="max" value="11"/>
+    <property name="min" value="8"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="emy_zhu" x="504" y="378" width="42" height="42">
+   <properties>
+    <property name="max" value="14"/>
+    <property name="min" value="12"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="emy_lang" x="420" y="546" width="42" height="42">
+   <properties>
+    <property name="max" value="18"/>
+    <property name="min" value="9"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="emy_lang" x="462" y="546" width="42" height="42">
+   <properties>
+    <property name="max" value="18"/>
+    <property name="min" value="9"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="emy_lang" x="504" y="546" width="42" height="42">
+   <properties>
+    <property name="max" value="18"/>
+    <property name="min" value="9"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="emy_zhu" x="546" y="546" width="42" height="42">
+   <properties>
+    <property name="max" value="18"/>
+    <property name="min" value="9"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="emy_lang" x="588" y="546" width="42" height="42">
+   <properties>
+    <property name="max" value="18"/>
+    <property name="min" value="9"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="emy_zhu" x="630" y="546" width="42" height="42">
+   <properties>
+    <property name="max" value="18"/>
+    <property name="min" value="9"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="na" x="294" y="378" width="42" height="42"/>
+  <object name="bhp" x="168" y="294" width="42" height="42">
+   <properties>
+    <property name="addper" value="5"/>
+    <property name="hp" value="100"/>
+    <property name="kill" value="20"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

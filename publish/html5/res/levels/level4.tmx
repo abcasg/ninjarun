@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="15" tilewidth="42" tileheight="42">
+ <tileset firstgid="1" name="level4" tilewidth="42" tileheight="42">
+  <image source="level4.png" width="840" height="630"/>
+  <tile id="41">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="map" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJyt08dO1FEUB+AZitJFUHrvxY3iUjYiCTtxyR42UqKiRsojWChCsAbfQd9BwEgJooBsFIwFBBIfwM/knziLyUwsiy+5+Z2bc85d3HAoFEogkSSSOcJRUkgljXQyyCSLY2RznBxyOcFJ8singEKKKKaEUsoop4JKqqimhlrqqKeBRppiOM0ZWjgb5+45WqPk52njAu0ReUeMXhfp5FKcmV1x6pG66YmSX6aXPvoZCPIrXOUag1znBjeD+i2GGGaE0T/YJZrb3OEu9xhjnAkmuc8U08H9GR7wkEc85glPg/osz/5xp0jPefEf+71kjnkWeBXkr1lkiWVWgnyVN6zxlness8Em79mKMucDH9lmh09B/pkvfOUbu+zxnX0OOIzo8+Mv35kQ9v9JIjn8O09xTiWNdDLIJCscu1+eej4FFFJEMSWUUkY5FVRSRTU11FJHPQ00/ppFM6f4CTjhVTA=
+  </data>
+ </layer>
+ <objectgroup name="data" width="20" height="15">
+  <object name="na" x="42" y="378" width="42" height="42"/>
+  <object name="dec_oneBox" x="168" y="252" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+    <property name="flipX" value="1"/>
+   </properties>
+  </object>
+  <object name="dec_oneBox" x="294" y="252" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+   </properties>
+  </object>
+  <object name="dec_oneBox" x="714" y="252" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+   </properties>
+  </object>
+  <object name="wl" x="336" y="168" width="42" height="42"/>
+  <object name="dec_yuantong" x="42" y="546" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+   </properties>
+  </object>
+  <object name="dec_oneBox" x="504" y="252" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+    <property name="flipX" value="1"/>
+   </properties>
+  </object>
+  <object name="dec_tong" x="546" y="378" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+   </properties>
+  </object>
+  <object name="dec_tong" x="714" y="378" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+   </properties>
+  </object>
+  <object name="dec_tong" x="462" y="546" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+   </properties>
+  </object>
+  <object name="dec_tong" x="630" y="546" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+   </properties>
+  </object>
+  <object name="nl" x="42" y="42" width="42" height="42">
+   <properties>
+    <property name="dir" value="2"/>
+   </properties>
+  </object>
+  <object name="nl" x="84" y="42" width="42" height="42">
+   <properties>
+    <property name="dir" value="2"/>
+   </properties>
+  </object>
+  <object name="nl" x="126" y="42" width="42" height="42">
+   <properties>
+    <property name="dir" value="2"/>
+   </properties>
+  </object>
+  <object name="nl" x="168" y="42" width="42" height="42">
+   <properties>
+    <property name="dir" value="2"/>
+   </properties>
+  </object>
+  <object name="nl" x="252" y="42" width="42" height="42">
+   <properties>
+    <property name="dir" value="2"/>
+   </properties>
+  </object>
+  <object name="nl" x="210" y="42" width="42" height="42">
+   <properties>
+    <property name="dir" value="2"/>
+   </properties>
+  </object>
+  <object name="nl" x="714" y="42" width="42" height="42">
+   <properties>
+    <property name="dir" value="2"/>
+   </properties>
+  </object>
+  <object name="nl" x="504" y="42" width="42" height="42">
+   <properties>
+    <property name="dir" value="2"/>
+   </properties>
+  </object>
+  <object name="nl" x="588" y="42" width="42" height="42">
+   <properties>
+    <property name="dir" value="2"/>
+   </properties>
+  </object>
+  <object name="nl" x="630" y="42" width="42" height="42">
+   <properties>
+    <property name="dir" value="2"/>
+   </properties>
+  </object>
+  <object name="nl" x="672" y="42" width="42" height="42">
+   <properties>
+    <property name="dir" value="2"/>
+   </properties>
+  </object>
+  <object name="nl" x="546" y="42" width="42" height="42">
+   <properties>
+    <property name="dir" value="2"/>
+   </properties>
+  </object>
+  <object name="nl" x="756" y="42" width="42" height="42">
+   <properties>
+    <property name="dir" value="2"/>
+   </properties>
+  </object>
+  <object name="nl" x="420" y="84" width="42" height="42">
+   <properties>
+    <property name="dir" value="2"/>
+   </properties>
+  </object>
+  <object name="nl" x="42" y="294" width="42" height="42">
+   <properties>
+    <property name="dir" value="2"/>
+   </properties>
+  </object>
+  <object name="nl" x="84" y="294" width="42" height="42">
+   <properties>
+    <property name="dir" value="2"/>
+   </properties>
+  </object>
+  <object name="nl" x="126" y="294" width="42" height="42">
+   <properties>
+    <property name="dir" value="2"/>
+   </properties>
+  </object>
+  <object name="emy_zhu" x="252" y="378" width="42" height="42"/>
+  <object name="emy_zhu" x="42" y="210" width="42" height="42">
+   <properties>
+    <property name="flipX" value="1"/>
+    <property name="max" value="3"/>
+    <property name="min" value="1"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="emy_lang" x="84" y="210" width="42" height="42">
+   <properties>
+    <property name="flipX" value="1"/>
+    <property name="max" value="3"/>
+    <property name="min" value="1"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="emy_zhu" x="462" y="168" width="42" height="42">
+   <properties>
+    <property name="flipX" value="1"/>
+    <property name="max" value="17"/>
+    <property name="min" value="11"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="emy_lang" x="462" y="378" width="42" height="42">
+   <properties>
+    <property name="flipX" value="1"/>
+    <property name="max" value="18"/>
+    <property name="min" value="11"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="emy_lang" x="504" y="378" width="42" height="42">
+   <properties>
+    <property name="flipX" value="1"/>
+    <property name="max" value="18"/>
+    <property name="min" value="11"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="emy_lang" x="546" y="378" width="42" height="42">
+   <properties>
+    <property name="flipX" value="1"/>
+    <property name="max" value="18"/>
+    <property name="min" value="11"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="dec_godeng" x="252" y="336" width="42" height="42">
+   <properties>
+    <property name="any" value="1"/>
+   </properties>
+  </object>
+  <object name="dec_godeng" x="504" y="336" width="42" height="42">
+   <properties>
+    <property name="any" value="1"/>
+   </properties>
+  </object>
+  <object name="dec_godeng" x="714" y="336" width="42" height="42">
+   <properties>
+    <property name="any" value="1"/>
+   </properties>
+  </object>
+  <object name="emy_lang" x="420" y="546" width="42" height="42">
+   <properties>
+    <property name="flipX" value="1"/>
+    <property name="max" value="16"/>
+    <property name="min" value="10"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="emy_lang" x="672" y="546" width="42" height="42">
+   <properties>
+    <property name="max" value="16"/>
+    <property name="min" value="10"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="dec_godeng" x="546" y="504" width="42" height="42">
+   <properties>
+    <property name="any" value="1"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

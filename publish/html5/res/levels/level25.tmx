@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="15" tilewidth="42" tileheight="42">
+ <tileset firstgid="1" name="level25" tilewidth="42" tileheight="42">
+  <image source="level25.png" width="840" height="630"/>
+  <tile id="30">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="map" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJyN00drFVEUAOD3jKmWqOnVxKipKogg9oJma+LKbOLCDnElwY4NcWHZ2BC7/0ATRbEvbOBWEdTYFUWwLBWDX+AuhuE9ksXHOXPuuefeGZhkIpEYRgbDySSLbHLIJY8RjGQUo8lnDGMZRwGFFFFMCaWUUU4FlVRRzfiYuthzPQ000kQzLUxhKtMivdNDnBGpzQxxFrOZw1zmMZ8FLGQRi0PvEpbSmuJ+cctoo53laXpW0JGi3snKWG0Vq1nDWtaxng2Rni42pjlrU4jdIW5mC1vZxnZ2sDOs72I3e9jLvlDfH+KB2PyDHOIwR1Kcf5RjHOcEJ0P9VIinOcNZznGeC1zk0hC+dzqXuUIPvVzlWli7zo2Q3+QWt7nDXe5xPzbvAQ95xGOeRNaeDuE+z3ge8heR+kte8Zo+3vCWd7znAx/5xGe+hH1f+Rby75F5P/jJL34Pcqc//A35P/pT9GQk/f9kkkU2OeSSlxz8vQv0FFJEMSWUUkY5FVRSRfXAPGqoZQJ1TGQSk6mngUaaaKaF/2jWWPc=
+  </data>
+ </layer>
+ <objectgroup name="data" width="20" height="15">
+  <object name="nl" x="252" y="84" width="42" height="42">
+   <properties>
+    <property name="dir" value="2"/>
+   </properties>
+  </object>
+  <object name="nl" x="336" y="168" width="42" height="42">
+   <properties>
+    <property name="dir" value="2"/>
+   </properties>
+  </object>
+  <object name="nl" x="336" y="210" width="42" height="42">
+   <properties>
+    <property name="dir" value="2"/>
+   </properties>
+  </object>
+  <object name="nl" x="672" y="84" width="42" height="42">
+   <properties>
+    <property name="dir" value="2"/>
+   </properties>
+  </object>
+  <object name="nl" x="714" y="84" width="42" height="42">
+   <properties>
+    <property name="dir" value="2"/>
+   </properties>
+  </object>
+  <object name="ntn" x="294" y="84" width="42" height="42"/>
+  <object name="ntn" x="336" y="84" width="42" height="42"/>
+  <object name="dec_tong" x="546" y="126" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+   </properties>
+  </object>
+  <object name="nlt" x="672" y="252" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+    <property name="dir1" value="3"/>
+   </properties>
+  </object>
+  <object name="nlt" x="630" y="42" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+    <property name="dir" value="2"/>
+    <property name="dir1" value="4"/>
+   </properties>
+  </object>
+  <object name="nlt" x="672" y="504" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+    <property name="dir1" value="3"/>
+   </properties>
+  </object>
+  <object name="emy_lang" x="126" y="168" width="42" height="42">
+   <properties>
+    <property name="max" value="4"/>
+    <property name="min" value="2"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="emy_lang" x="378" y="210" width="42" height="42">
+   <properties>
+    <property name="max" value="10"/>
+    <property name="min" value="9"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="emy_zhu" x="168" y="504" width="42" height="42">
+   <properties>
+    <property name="max" value="5"/>
+    <property name="min" value="2"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="bhp" x="546" y="378" width="42" height="42">
+   <properties>
+    <property name="addper" value="5"/>
+    <property name="hp" value="100"/>
+    <property name="kill" value="20"/>
+   </properties>
+  </object>
+  <object name="bhp" x="42" y="420" width="42" height="42">
+   <properties>
+    <property name="addper" value="5"/>
+    <property name="hp" value="100"/>
+    <property name="kill" value="20"/>
+   </properties>
+  </object>
+  <object name="na" x="672" y="168" width="42" height="42"/>
+ </objectgroup>
+</map>

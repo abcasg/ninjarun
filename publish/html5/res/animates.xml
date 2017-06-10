@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<animates>
+<frame id="1" name="na_normal" path="na_normal_%d.png" total="4" sindex="1" delay="0.2"/>
+<frame id="1" name="na_run" path="na_run_%d.png" total="6" sindex="1" delay="0.01"/>
+<frame id="1" name="na_die" path="na_die_%d.png" total="6" sindex="1" delay="0.05"/>
+<frame id="1" name="na_hui" path="na_hui_%d.png" total="6" sindex="1" delay="0.05"/>
+
+<frame id="1" name="emy_lang" path="emy_lang_%d.png" total="4" sindex="1" delay="0.2"/>
+<frame id="1" name="emy_lang_run" path="emy_lang_run_%d.png" total="4" sindex="1" delay="0.2"/>
+<frame id="1" name="emy_zhu" path="emy_zhu_%d.png" total="4" sindex="1" delay="0.2"/>
+<frame id="1" name="emy_zhu_run" path="emy_zhu_run_%d.png" total="4" sindex="1" delay="0.2"/>
+<frame id="1" name="emy_niao" path="emy_niao_%d.png" total="1" sindex="1" delay="0.2"/>
+<frame id="1" name="emy_niao_run" path="emy_niao_%d.png" total="3" sindex="1" delay="0.2"/>
+<frame id="1" name="emy_die" path="emy_die_%d.png" total="9" sindex="1" delay="0.05"/>
+
+<frame id="1" name="dec_oneDoor" path="dec_oneDoor_%d.png" total="1" sindex="1" delay="0.05"/>
+<frame id="1" name="dec_oneDoor_die" path="dec_oneDoor_%d.png" total="15" sindex="2" delay="0.03"/>
+<frame id="1" name="dec_twoDoor" path="dec_twoDoor_%d.png" total="1" sindex="1" delay="0.05"/>
+<frame id="1" name="dec_twoDoor_die" path="dec_twoDoor_%d.png" total="15" sindex="2" delay="0.03"/>
+<frame id="1" name="dec_oneBox" path="dec_oneBox_%d.png" total="1" sindex="1" delay="0.05"/>
+<frame id="1" name="dec_oneBox_die" path="dec_oneBox_%d.png" total="11" sindex="2" delay="0.03"/>
+<frame id="1" name="dec_twoBox" path="dec_twoBox_%d.png" total="1" sindex="1" delay="0.05"/>
+<frame id="1" name="dec_twoBox_die" path="dec_twoBox_%d.png" total="11" sindex="2" delay="0.03"/>
+<frame id="1" name="dec_godeng" path="dec_godeng_%d.png" total="1" sindex="1" delay="0.05"/>
+<frame id="1" name="dec_godeng_die" path="dec_godeng_%d.png" total="12" sindex="2" delay="0.03"/>
+<frame id="1" name="dec_badeng" path="dec_badeng_%d.png" total="1" sindex="1" delay="0.05"/>
+<frame id="1" name="dec_badeng_die" path="dec_badeng_%d.png" total="11" sindex="2" delay="0.03"/>
+<frame id="1" name="dec_tong" path="dec_tong_%d.png" total="1" sindex="1" delay="0.05"/>
+<frame id="1" name="dec_tong_die" path="dec_tong_%d.png" total="12" sindex="2" delay="0.03"/>
+<frame id="1" name="dec_yuantong" path="dec_yuantong_%d.png" total="1" sindex="1" delay="0.05"/>
+<frame id="1" name="dec_yuantong_die" path="dec_yuantong_%d.png" total="15" sindex="2" delay="0.03"/>
+<frame id="1" name="dec_tie" path="dec_tie_%d.png" total="1" sindex="1" delay="0.05"/>
+<frame id="1" name="dec_tie_die" path="dec_tie_%d.png" total="16" sindex="2" delay="0.03"/>
+<frame id="1" name="dec_book" path="shugui-800%.02d.png" total="1" sindex="1" delay="0.05"/>
+<frame id="1" name="dec_book_die" path="shugui-800%.02d.png" total="19" sindex="2" delay="0.03"/>
+<frame id="1" name="dec_tv" path="tv-600%.02d.png" total="1" sindex="1" delay="0.05"/>
+<frame id="1" name="dec_tv_die" path="tv-600%.02d.png" total="26" sindex="2" delay="0.03"/>
+<frame id="1" name="dec_pic" path="huaxiang_100%.02d.png" total="1" sindex="1" delay="0.05"/>
+<frame id="1" name="dec_pic_die" path="huaxiang_100%.02d.png" total="19" sindex="2" delay="0.03"/>
+<frame id="1" name="dec_shiyan" path="shiyantai-700%.02d.png" total="1" sindex="1" delay="0.05"/>
+<frame id="1" name="dec_shiyan_die" path="shiyantai-700%.02d.png" total="11" sindex="2" delay="0.03"/>
+
+
+<frame id="1" name="naf" path="ninja_%d.png" total="6" sindex="1" delay="0.005"/>
+<frame id="1" name="bhp" path="niu_%d.png" total="5" sindex="1" delay="0.2"/>
+<frame id="1" name="bt" path="bt_%d.png" total="4" sindex="1" delay="0.2"/>
+<frame id="1" name="nag" path="nag_%d.png" total="1" sindex="1" delay="0.2"/>
+<frame id="1" name="nag_die" path="nag_die_%d.png" total="7" sindex="1" delay="0.1"/>
+<frame id="1" name="nl" path="nail_%d.png" total="1" sindex="1" delay="0.2"/>
+<frame id="1" name="nlt" path="nlt_%d.png" total="1" sindex="1" delay="0.2"/>
+<frame id="1" name="tnl" path="nailTwo_%d.png" total="1" sindex="1" delay="0.2"/>
+<frame id="1" name="fnl" path="nailSi_%d.png" total="1" sindex="1" delay="0.2"/>
+<frame id="1" name="pt" path="pt_%d.png" total="2" sindex="1" delay="0.2"/>
+<frame id="1" name="jz" path="jz_%d.png" total="1" sindex="100" delay="0.2"/>
+<frame id="1" name="jz_die" path="jz_%d.png" total="48" sindex="1" delay="0.05"/>
+<frame id="1" name="wl" path="wall_%d.png" total="1" sindex="1" delay="0.2"/>
+<frame id="1" name="wl_die" path="wall_die_%d.png" total="8" sindex="1" delay="0.05"/>
+<frame id="1" name="ntn" path="ntn_%d.png" total="2" sindex="1" delay="0.1"/>
+<frame id="1" name="ntn_die" path="ntn_die_%d.png" total="7" sindex="1" delay="0.05"/>
+<frame id="1" name="boss_die" path="shaboos-20%.03d.png" total="104" sindex="1" delay="0.03"/>
+<frame id="1" name="na_tc" path="tanchuangrenzhedonghua-500%.02d.png" total="25" sindex="1" delay="0.03"/>
+
+
+
+<frame id="1" name="help_1" path="emy_lang_%d.png" total="4" sindex="1" delay="0.2"/>
+<frame id="1" name="help_2" path="2-100%.02d.png" total="18" sindex="1" delay="0.03"/>
+<frame id="1" name="help_4" path="shitou-8000100%.02d.png" total="43" sindex="1" delay="0.03"/>
+<frame id="1" name="help_5" path="niu-300%.02d.png" total="34" sindex="1" delay="0.05"/>
+<frame id="1" name="help_9" path="lubiao-400%.02d.png" total="15" sindex="1" delay="0.05"/>
+<frame id="1" name="help_10" path="lanseyang-500%.02d.png" total="19" sindex="1" delay="0.05"/>
+<frame id="1" name="help_11" path="fensheng-600%.02d.png" total="28" sindex="1" delay="0.03"/>
+<frame id="1" name="help_12" path="kaiguan-700%.02d.png" total="15" sindex="1" delay="0.05"/>
+<frame id="1" name="help_13" path="emy_lang_%d.png" total="4" sindex="1" delay="0.2"/>
+<frame id="1" name="help_14" path="emy_lang_%d.png" total="4" sindex="1" delay="0.2"/>
+<frame id="1" name="help_15" path="emy_lang_%d.png" total="4" sindex="1" delay="0.2"/>
+</animates>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="15" tilewidth="42" tileheight="42">
+ <tileset firstgid="1" name="level7" tilewidth="42" tileheight="42">
+  <image source="level7.png" width="840" height="630"/>
+  <tile id="41">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="map" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJyt07lSE1AUBuBEIyoKqIgJJCEkkEDUR9B3wEZBFBpoFGVrXGZcWQq0UVGBBhs3UBtsVPYG3kHeQd6Aj45h7sCMk+Jr/nv+c6objUQihzhMjCOUcZRjHKecE5ykgkqqOMVpzlDNWWo4R5wEtdSRJEWaejI0kCVHI03kKdBMC0XOl8glLpdwXytXAvlVrtFGO9fp4AY36aQr0OumJ5Df4ja93OEuffQzwCBDgd497vOAh7vyRzzmCU95xnOGGWGUsT27xnnBy8CdV7zmDRO85R3vmWSK6UBvhg+B/COf+MwXvjLLHN/4zo9Ab56fgfwXv/nDAossscwKq6wFeutsBPL/9ZfNEu77x1YJ98Wi/j9l0f3nKr1XHTAT956gljqSpEhTT4YGsuRopIk8BZppobhzhwtcZBtpUU0o
+  </data>
+ </layer>
+ <objectgroup name="data" width="20" height="15">
+  <object name="na" x="42" y="210" width="42" height="42"/>
+  <object name="tnl" x="252" y="378" width="42" height="42"/>
+  <object name="tnl" x="294" y="378" width="42" height="42"/>
+  <object name="tnl" x="336" y="378" width="42" height="42"/>
+  <object name="tnl" x="378" y="378" width="42" height="42"/>
+  <object name="nl" x="252" y="168" width="42" height="42">
+   <properties>
+    <property name="dir" value="1"/>
+   </properties>
+  </object>
+  <object name="nl" x="294" y="168" width="42" height="42">
+   <properties>
+    <property name="dir" value="1"/>
+   </properties>
+  </object>
+  <object name="nl" x="336" y="168" width="42" height="42">
+   <properties>
+    <property name="dir" value="1"/>
+   </properties>
+  </object>
+  <object name="nl" x="378" y="168" width="42" height="42">
+   <properties>
+    <property name="dir" value="1"/>
+   </properties>
+  </object>
+  <object name="emy_zhu" x="84" y="546" width="42" height="42">
+   <properties>
+    <property name="flipX" value="1"/>
+    <property name="max" value="6"/>
+    <property name="min" value="2"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="emy_zhu" x="126" y="546" width="42" height="42">
+   <properties>
+    <property name="flipX" value="1"/>
+    <property name="max" value="6"/>
+    <property name="min" value="2"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="emy_lang" x="168" y="546" width="42" height="42">
+   <properties>
+    <property name="flipX" value="1"/>
+    <property name="max" value="6"/>
+    <property name="min" value="2"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="emy_zhu" x="546" y="546" width="42" height="42">
+   <properties>
+    <property name="max" value="6"/>
+    <property name="min" value="2"/>
+   </properties>
+  </object>
+  <object name="emy_niao" x="42" y="294" width="42" height="42">
+   <properties>
+    <property name="flipX" value="1"/>
+    <property name="fly" value="1"/>
+    <property name="max" value="12"/>
+    <property name="min" value="7"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="emy_niao" x="756" y="294" width="42" height="42">
+   <properties>
+    <property name="fly" value="1"/>
+    <property name="max" value="12"/>
+    <property name="min" value="7"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="fnl" x="84" y="42" width="42" height="42"/>
+  <object name="nl" x="420" y="168" width="42" height="42">
+   <properties>
+    <property name="dir" value="1"/>
+   </properties>
+  </object>
+  <object name="nl" x="462" y="168" width="42" height="42">
+   <properties>
+    <property name="dir" value="1"/>
+   </properties>
+  </object>
+  <object name="nl" x="504" y="168" width="42" height="42">
+   <properties>
+    <property name="dir" value="1"/>
+   </properties>
+  </object>
+  <object name="nl" x="546" y="168" width="42" height="42">
+   <properties>
+    <property name="dir" value="1"/>
+   </properties>
+  </object>
+  <object name="fnl" x="126" y="42" width="42" height="42"/>
+  <object name="fnl" x="210" y="42" width="42" height="42"/>
+  <object name="fnl" x="168" y="42" width="42" height="42"/>
+  <object name="fnl" x="252" y="42" width="42" height="42"/>
+  <object name="fnl" x="294" y="42" width="42" height="42"/>
+  <object name="fnl" x="336" y="42" width="42" height="42"/>
+  <object name="fnl" x="546" y="42" width="42" height="42"/>
+  <object name="fnl" x="504" y="42" width="42" height="42"/>
+  <object name="fnl" x="420" y="42" width="42" height="42"/>
+  <object name="fnl" x="462" y="42" width="42" height="42"/>
+  <object name="fnl" x="378" y="42" width="42" height="42"/>
+  <object name="fnl" x="588" y="42" width="42" height="42"/>
+  <object name="fnl" x="672" y="42" width="42" height="42"/>
+  <object name="fnl" x="714" y="42" width="42" height="42"/>
+  <object name="fnl" x="630" y="42" width="42" height="42"/>
+  <object name="fnl" x="420" y="42" width="42" height="42"/>
+  <object name="fnl" x="336" y="42" width="42" height="42"/>
+  <object name="fnl" x="294" y="42" width="42" height="42"/>
+  <object name="fnl" x="252" y="42" width="42" height="42"/>
+  <object name="fnl" x="168" y="42" width="42" height="42"/>
+  <object name="fnl" x="210" y="42" width="42" height="42"/>
+  <object name="fnl" x="126" y="42" width="42" height="42"/>
+  <object name="fnl" x="378" y="42" width="42" height="42"/>
+  <object name="fnl" x="588" y="252" width="42" height="42"/>
+  <object name="fnl" x="336" y="252" width="42" height="42"/>
+  <object name="fnl" x="294" y="252" width="42" height="42"/>
+  <object name="fnl" x="504" y="252" width="42" height="42"/>
+  <object name="fnl" x="378" y="252" width="42" height="42"/>
+  <object name="fnl" x="420" y="252" width="42" height="42"/>
+  <object name="fnl" x="462" y="252" width="42" height="42"/>
+  <object name="fnl" x="210" y="252" width="42" height="42"/>
+  <object name="fnl" x="546" y="252" width="42" height="42"/>
+  <object name="fnl" x="252" y="252" width="42" height="42"/>
+  <object name="fnl" x="588" y="294" width="42" height="42"/>
+  <object name="fnl" x="336" y="294" width="42" height="42"/>
+  <object name="fnl" x="294" y="294" width="42" height="42"/>
+  <object name="fnl" x="504" y="294" width="42" height="42"/>
+  <object name="fnl" x="378" y="294" width="42" height="42"/>
+  <object name="fnl" x="420" y="294" width="42" height="42"/>
+  <object name="fnl" x="462" y="294" width="42" height="42"/>
+  <object name="fnl" x="210" y="294" width="42" height="42"/>
+  <object name="fnl" x="546" y="294" width="42" height="42"/>
+  <object name="fnl" x="252" y="294" width="42" height="42"/>
+  <object name="tnl" x="420" y="378" width="42" height="42"/>
+  <object name="tnl" x="462" y="378" width="42" height="42"/>
+  <object name="tnl" x="504" y="378" width="42" height="42"/>
+  <object name="tnl" x="546" y="378" width="42" height="42"/>
+  <object name="dec_oneBox" x="84" y="210" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+   </properties>
+  </object>
+  <object name="jz" x="630" y="546" width="42" height="42"/>
+  <object name="dec_tie" x="210" y="420" width="42" height="42">
+   <properties>
+    <property name="any" value="1"/>
+   </properties>
+  </object>
+  <object name="dec_tie" x="210" y="462" width="42" height="42">
+   <properties>
+    <property name="any" value="1"/>
+   </properties>
+  </object>
+  <object name="dec_tie" x="210" y="504" width="42" height="42">
+   <properties>
+    <property name="any" value="1"/>
+   </properties>
+  </object>
+  <object name="dec_tie" x="588" y="420" width="42" height="42">
+   <properties>
+    <property name="any" value="1"/>
+   </properties>
+  </object>
+  <object name="dec_tie" x="588" y="504" width="42" height="42">
+   <properties>
+    <property name="any" value="1"/>
+   </properties>
+  </object>
+  <object name="dec_tie" x="588" y="462" width="42" height="42">
+   <properties>
+    <property name="any" value="1"/>
+   </properties>
+  </object>
+  <object name="emy_niao" x="756" y="84" width="42" height="42">
+   <properties>
+    <property name="fly" value="1"/>
+    <property name="max" value="5"/>
+    <property name="min" value="2"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

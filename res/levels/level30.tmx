@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="15" tilewidth="42" tileheight="42">
+ <tileset firstgid="1" name="level30" tilewidth="42" tileheight="42">
+  <image source="level30.png" width="840" height="630"/>
+  <tile id="23">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="29">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="105">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="162">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="163">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="164">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="182">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="194">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="195">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="map" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJyN0UlsTlEYBuD/17k6D2poUVNHQiKxMKxYimoq5im0G8PWsJZYmIuYFoYFTSwNsbOwULSGChLBHhsEC0N5bnokNzd/tTd58p3znfecc3NvOpVKjSGLbHLIJY98CihkLEUUU0IpZZRTQSVVVDOOGsYn1FKX6NVnyEUaaKSJZlpoZTZzQmYu82J75sfGCxLnLWQRi1kyzJ1LWTbM2j/LQ11BGytpD70OVoXxatawlnWsZwMb2cRmtrA15LexnU66EnfeYwc72cXuEd4xsoe97GP/KPKRA7HxwcTaIQ5zhKMc4zgn6OYkpzgd8mc4yznOcyFx3kUucZkribWrXKMn1rs+wrvf4Ca3uB16d/6Tv5vhG8fn9+nlAQ95RB/9POYJT3nGAM/Dvhe85FXsrNehvuEt70b5PyLv+cDHDGuf+MyXMP/KN74ncj/4yS9+M8if1NCTTg9lstRscsglj3wKKAyZIrWYEkopo5wKKqmiOmRrosoEJjKJWuqYzBSmUs80pjODmcyigUaaaKaFVv4CZCxS6A==
+  </data>
+ </layer>
+ <objectgroup name="data" width="20" height="15">
+  <object name="wl" x="210" y="210" width="42" height="42"/>
+  <object name="nlt" x="126" y="252" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+    <property name="dir1" value="3"/>
+   </properties>
+  </object>
+  <object name="ntn" x="168" y="252" width="42" height="42"/>
+  <object name="ntn" x="210" y="252" width="42" height="42"/>
+  <object name="wl" x="588" y="378" width="42" height="42"/>
+  <object name="nl" x="630" y="504" width="42" height="42"/>
+  <object name="nag" x="294" y="252" width="42" height="42"/>
+  <object name="nag" x="336" y="252" width="42" height="42"/>
+  <object name="emy_zhu" x="168" y="42" width="42" height="42">
+   <properties>
+    <property name="max" value="5"/>
+    <property name="min" value="3"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="emy_zhu" x="210" y="42" width="42" height="42">
+   <properties>
+    <property name="max" value="5"/>
+    <property name="min" value="3"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="emy_zhu" x="630" y="126" width="42" height="42">
+   <properties>
+    <property name="max" value="15"/>
+    <property name="min" value="9"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="emy_zhu" x="210" y="462" width="42" height="42">
+   <properties>
+    <property name="max" value="5"/>
+    <property name="min" value="3"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="emy_lang" x="126" y="462" width="42" height="42">
+   <properties>
+    <property name="max" value="5"/>
+    <property name="min" value="3"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="emy_lang" x="210" y="378" width="42" height="42">
+   <properties>
+    <property name="max" value="9"/>
+    <property name="min" value="4"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="emy_lang" x="294" y="378" width="42" height="42">
+   <properties>
+    <property name="max" value="9"/>
+    <property name="min" value="4"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="emy_lang" x="378" y="378" width="42" height="42">
+   <properties>
+    <property name="max" value="9"/>
+    <property name="min" value="4"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="emy_lang" x="378" y="462" width="42" height="42">
+   <properties>
+    <property name="max" value="11"/>
+    <property name="min" value="9"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="emy_lang" x="462" y="462" width="42" height="42">
+   <properties>
+    <property name="max" value="11"/>
+    <property name="min" value="9"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="bhp" x="756" y="462" width="42" height="42">
+   <properties>
+    <property name="addper" value="5"/>
+    <property name="hp" value="100"/>
+    <property name="kill" value="20"/>
+   </properties>
+  </object>
+  <object name="bhp" x="462" y="42" width="42" height="42">
+   <properties>
+    <property name="addper" value="5"/>
+    <property name="hp" value="100"/>
+    <property name="kill" value="20"/>
+   </properties>
+  </object>
+  <object name="na" x="84" y="378" width="42" height="42"/>
+ </objectgroup>
+</map>

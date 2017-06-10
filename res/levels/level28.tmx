@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="15" tilewidth="42" tileheight="42">
+ <tileset firstgid="1" name="level28" tilewidth="42" tileheight="42">
+  <image source="level28.png" width="840" height="630"/>
+  <tile id="22">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="42">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="62">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="162">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="182">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="222">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="242">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+  <tile id="262">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="map" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJyt0zdPAzEYxvE7QkIPvQQIgVBSYGKlDIwstJWNOjDTkk8QqgABosNXoEyIlSp6b1+BMjLxP+QhOsHZA5Z+8r1+H/vOw+mapsXAhljY4UAc4pGARCQhGSlwIhVpSEcGMpGFbOQgV3BFPRvcYvaY1s188COAoCRbLekbalCLOtSbeg2SvY2/rDWhGS1oRZvCN7Rb9DrQiS50owe9pkyfwjsM/RjAIIYwjBDCoh89ZLUxIhjBKMYwjglMivwUpjEj6lnMYV7UC1jEEpaxglWsYR0biveysoktbGPnj8yumPcUztvHAQ5xhGOciN4pznCOC1ziCte4wS3ucI8HPOIJz3jB6z/c9w3v+MCnJPulcJ5N5/+HHQ7dOuuU9H+QyYML+ShAIdwoggfFKIEXpShDOSrggx8BBFGJKnwDCzxFPQ==
+  </data>
+ </layer>
+ <objectgroup name="data" width="20" height="15">
+  <object name="nl" x="210" y="252" width="42" height="42"/>
+  <object name="nl" x="252" y="252" width="42" height="42"/>
+  <object name="nl" x="294" y="252" width="42" height="42"/>
+  <object name="nl" x="378" y="252" width="42" height="42"/>
+  <object name="nl" x="420" y="252" width="42" height="42"/>
+  <object name="nl" x="462" y="252" width="42" height="42"/>
+  <object name="nl" x="546" y="252" width="42" height="42"/>
+  <object name="nl" x="588" y="252" width="42" height="42"/>
+  <object name="nl" x="630" y="252" width="42" height="42"/>
+  <object name="nl" x="672" y="252" width="42" height="42"/>
+  <object name="jz" x="336" y="378" width="42" height="42"/>
+  <object name="dec_yuantong" x="210" y="378" width="42" height="42"/>
+  <object name="dec_yuantong" x="252" y="378" width="42" height="42"/>
+  <object name="dec_yuantong" x="420" y="378" width="42" height="42"/>
+  <object name="dec_yuantong" x="462" y="378" width="42" height="42"/>
+  <object name="bt" x="84" y="378" width="42" height="42"/>
+  <object name="bt" x="84" y="546" width="42" height="42"/>
+  <object name="bt" x="714" y="378" width="42" height="42"/>
+  <object name="bt" x="714" y="546" width="42" height="42"/>
+  <object name="nag" x="336" y="546" width="42" height="42"/>
+  <object name="nag" x="420" y="546" width="42" height="42"/>
+  <object name="dec_pic" x="210" y="504" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+   </properties>
+  </object>
+  <object name="dec_pic" x="546" y="504" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+   </properties>
+  </object>
+  <object name="bhp" x="378" y="462" width="42" height="42">
+   <properties>
+    <property name="addper" value="5"/>
+    <property name="hp" value="100"/>
+    <property name="kill" value="20"/>
+   </properties>
+  </object>
+  <object name="na" x="126" y="168" width="42" height="42"/>
+ </objectgroup>
+</map>

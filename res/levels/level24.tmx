@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="15" tilewidth="42" tileheight="42">
+ <tileset firstgid="1" name="level24" tilewidth="42" tileheight="42">
+  <image source="level24.png" width="840" height="630"/>
+  <tile id="24">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="map" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJyd0zlPFVEYBuB7Zd/3HRRRdnoTUfgBJCBS2yhoQk0QsBGwcu1sTFQwJsYSUApAqXDhH+BCgZUFiPwBHpNrMpnMhavFk/PNd77z5kwmE4/FYidII50MMskimxxyySOfAgopopgSSimjnAoqqaKampCGiF5YC6200U4HnXSlcPavc4H6PN1c4CI99P5D1h99gbqfAS4xyGWGUsy5EtG7yjWGGeE6NwL7oylmjyXWcW4ywSRT3IqYv800M8xyJ0nuXe5xnwc85NER93gc0XsSqJ/yjOfMMc+LxN7LwNyrxPr6mPdeYJEl3vCW5dDMCqus8Y73rCfJ2+ADH/nEZzZT/AZRtvjCV77xne3QzA4/kpz/GXreZY9f7PObg/+8Wzzu/yeNdDLIJItscsglj3wKKKSIYkoopYxyKqikimpqqKWOeho4ySkaOU0TZzhLMy200kY7HXTSxSGjLkX2
+  </data>
+ </layer>
+ <objectgroup name="data" width="20" height="15">
+  <object name="fnl" x="126" y="546" width="42" height="42"/>
+  <object name="fnl" x="168" y="546" width="42" height="42"/>
+  <object name="fnl" x="210" y="546" width="42" height="42"/>
+  <object name="fnl" x="252" y="546" width="42" height="42"/>
+  <object name="fnl" x="294" y="546" width="42" height="42"/>
+  <object name="fnl" x="378" y="546" width="42" height="42"/>
+  <object name="fnl" x="420" y="546" width="42" height="42"/>
+  <object name="fnl" x="462" y="546" width="42" height="42"/>
+  <object name="fnl" x="504" y="546" width="42" height="42"/>
+  <object name="fnl" x="546" y="546" width="42" height="42"/>
+  <object name="nl" x="168" y="336" width="42" height="42"/>
+  <object name="nl" x="630" y="210" width="42" height="42">
+   <properties>
+    <property name="dir" value="3"/>
+   </properties>
+  </object>
+  <object name="dec_oneBox" x="252" y="420" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+   </properties>
+  </object>
+  <object name="dec_oneBox" x="630" y="504" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+   </properties>
+  </object>
+  <object name="dec_yuantong" x="294" y="210" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+   </properties>
+  </object>
+  <object name="dec_yuantong" x="462" y="210" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+   </properties>
+  </object>
+  <object name="nlt" x="294" y="42" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+    <property name="dir" value="3"/>
+    <property name="dir1" value="2"/>
+   </properties>
+  </object>
+  <object name="nlt" x="420" y="294" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+    <property name="dir" value="2"/>
+    <property name="dir1" value="4"/>
+   </properties>
+  </object>
+  <object name="dec_tong" x="252" y="336" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+   </properties>
+  </object>
+  <object name="dec_tong" x="672" y="462" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+   </properties>
+  </object>
+  <object name="dec_shiyan" x="588" y="504" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+   </properties>
+  </object>
+  <object name="emy_lang" x="336" y="336" width="42" height="42"/>
+  <object name="na" x="336" y="210" width="42" height="42"/>
+ </objectgroup>
+</map>

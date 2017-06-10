@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="15" tilewidth="42" tileheight="42">
+ <tileset firstgid="1" name="level21" tilewidth="42" tileheight="42">
+  <image source="level21.png" width="840" height="630"/>
+  <tile id="24">
+   <properties>
+    <property name="tag" value="1"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="map" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJyF00drFVEYBuB7TbObokmsSTQ9gl0E2yLg0rZQFAvEJKKi2OtKcGXFP2CN3dgVXOnC7sKNiC12xYXGthMXPoGzGIZ7k8XD+eZ87zlzZoZJJhKJbmSQSRbZ5NCdHvSkF73pQ1/6kUse+RTQnwEUUkQxA9MooZSyyFw5FaGuopoaaqmLrR/FaMYwlnGMZwITQ2ZSJD+ZKUxlGtNj+9VH6hmdnLvDTGYxmznMjfXnMT/UC1gY6kUsZglLI/kGltFIE80sD70VrGRVuF7NmlCvZR3r2cBGNrGZLWxlG9vZkeZZdkbqXWkyu9nDXvaxnwOhd7CLd5XKIQ5zhKMc4zgtnOAkpzjNGc5yjvO0coGLXOIyV7jKNa5zI3Kvm2nOcIvbsbk73OUe93nAQx7xOJZ9kmLPp2F8FsbnvOAlr3hNG294yzve84GPfOIzX8L6r7H9v/Gddn7wk1/85k8n7/tvGP+l6CWT/n8yyCSLbHKSXX/HXJk88imI5AvVRRR3zDGIwQxhKMMooZQyhjOCciqopIpqaqiljpH8B+08Wi0=
+  </data>
+ </layer>
+ <objectgroup name="data" width="20" height="15">
+  <object name="nl" x="126" y="42" width="42" height="42"/>
+  <object name="nl" x="294" y="84" width="42" height="42"/>
+  <object name="nl" x="714" y="126" width="42" height="42"/>
+  <object name="nl" x="210" y="462" width="42" height="42"/>
+  <object name="nl" x="462" y="546" width="42" height="42"/>
+  <object name="nl" x="504" y="546" width="42" height="42"/>
+  <object name="nlt" x="213" y="128" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+    <property name="dir1" value="3"/>
+   </properties>
+  </object>
+  <object name="nlt" x="504" y="420" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+    <property name="dir" value="4"/>
+   </properties>
+  </object>
+  <object name="dec_oneBox" x="168" y="168" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+   </properties>
+  </object>
+  <object name="nag" x="336" y="126" width="42" height="42"/>
+  <object name="nag" x="546" y="126" width="42" height="42"/>
+  <object name="dec_tong" x="84" y="378" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+   </properties>
+  </object>
+  <object name="dec_yuantong" x="126" y="420" width="42" height="42">
+   <properties>
+    <property name="any" value="0"/>
+   </properties>
+  </object>
+  <object name="dec_badeng" x="336" y="378" width="42" height="42">
+   <properties>
+    <property name="any" value="1"/>
+   </properties>
+  </object>
+  <object name="dec_badeng" x="294" y="504" width="42" height="42">
+   <properties>
+    <property name="any" value="1"/>
+   </properties>
+  </object>
+  <object name="dec_badeng" x="546" y="462" width="42" height="42">
+   <properties>
+    <property name="any" value="1"/>
+   </properties>
+  </object>
+  <object name="dec_tie" x="630" y="504" width="42" height="42">
+   <properties>
+    <property name="any" value="1"/>
+   </properties>
+  </object>
+  <object name="nag" x="210" y="546" width="42" height="42"/>
+  <object name="dec_tv" x="168" y="504" width="42" height="42">
+   <properties>
+    <property name="any" value="1"/>
+   </properties>
+  </object>
+  <object name="emy_lang" x="378" y="42" width="42" height="42">
+   <properties>
+    <property name="max" value="9"/>
+    <property name="min" value="8"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="emy_lang" x="672" y="168" width="42" height="42">
+   <properties>
+    <property name="max" value="16"/>
+    <property name="min" value="15"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="emy_lang" x="336" y="420" width="42" height="42">
+   <properties>
+    <property name="max" value="9"/>
+    <property name="min" value="7"/>
+    <property name="speed" value="1"/>
+   </properties>
+  </object>
+  <object name="bhp" x="588" y="294" width="42" height="42">
+   <properties>
+    <property name="addper" value="5"/>
+    <property name="hp" value="100"/>
+    <property name="kill" value="20"/>
+   </properties>
+  </object>
+  <object name="na" x="546" y="504" width="42" height="42"/>
+ </objectgroup>
+</map>
